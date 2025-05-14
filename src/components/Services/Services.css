@@ -1,0 +1,12 @@
+/* Estilo glassmorphism aplicado a la tarjeta completa */
+.card.service-card {
+    backdrop-filter: blur(3px) saturate(100%);
+    -webkit-backdrop-filter: blur(3px) saturate(100%);
+    background-color: rgba(250, 250, 250, 0.521);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+}
+
+.fondo {
+text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.7);
+}
