@@ -131,11 +131,7 @@ const News = () => {
           ))}
         </div>
 
-        <div className="text-center mt-5">
-          <button className="btn btn-primary-custom px-4 py-2" onClick={() => alert('Ver todas las noticias')}>
-            Ver todas las noticias
-          </button>
-        </div>
+
       </div>
     </section>
   );

@@ -1,10 +1,9 @@
-import React from 'react';
-import Footer from './components/Footer/Footer';
 import './App.css';
 import Sections from './components/Sections';
 import Header from './components/Header';
+import Footer from './components/Footer';
 import IntroModal from './components/IntroModal/IntroModal';
-import QuickLinks from './components/QuickLinks/QuickLinks';
+import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
