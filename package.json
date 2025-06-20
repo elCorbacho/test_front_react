@@ -10,8 +10,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^6.0.0",
+    "@mui/material": "^6.4.12",
+    "@mui/styled-engine-sc": "^7.1.1",
+    "bootstrap": "^5.3.7",
+    "prop-types": "^15.8.1",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.2",
+    "styled-components": "^6.1.19"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.0",
